@@ -7,7 +7,7 @@
 
 
 city = 'Traverse City, '
-state = 'Michigan'
+state = 'Michigan.'
 
 print('I live in ' + city + state)
 
