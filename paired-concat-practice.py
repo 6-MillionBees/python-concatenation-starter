@@ -36,4 +36,4 @@ print('my name is ' + first_name + middle_name + ' ' + last_name + ' ' + 'and I 
 
 country = 'finland'
 
-print('I would definitely go to ' + country + ' because finland is the best
+print('I would definitely go to ' + country.title() + ' because ' + country.title() + ' is the best and they have so many saunas')
