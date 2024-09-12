@@ -32,9 +32,8 @@ year_of_birth = '2008'
 print('my name is ' + first_name + middle_name + ' ' + last_name + ' ' + 'and I was born in ' + year_of_birth) 
 
 # Part 4
-# Use concatenation to create and display a sentence that says which country in the world
-# you would visit if money were no object
+# Use concatenation to create and display a sentence that says which country in the world you would visit if money were no object
 
 country = 'finland'
 
-
+print('I would definitely go to ' + country + ' because finland is the best
