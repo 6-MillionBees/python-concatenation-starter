@@ -11,10 +11,10 @@
 # Have Python print a message that contains your concatenated full name, i.e., your combined first, middle and last names
 
 first_name = 'Arden '
-middle_name = 'Elis'
+middle_name = 'Elis '
 last_name = 'Boettcher'
 
-print(first_name + middle_name + ' ' + last_name)
+print(first_name + middle_name  + last_name)
 
 # Part 2
 # Assume you're building a Space Invaders game
@@ -29,7 +29,7 @@ print('Welcome ' + player_name.title() + ' to Space Invaders')
 
 year_of_birth = '2008'
 
-print('my name is ' + first_name + middle_name + ' ' + last_name + ' ' + 'and I was born in ' + year_of_birth) 
+print('my name is ' + first_name + middle_name + last_name + ' ' + 'and I was born in ' + year_of_birth) 
 
 # Part 4
 # Use concatenation to create and display a sentence that says which country in the world you would visit if money were no object
