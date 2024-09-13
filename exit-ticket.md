@@ -11,7 +11,7 @@
 
 
 #### What's one advantage of using an f-string to build a string in Python?  (HINT: Think numeric data!)
-- *it automatically makes numeric data into string data.*
+- *it allows you to use numeric data in a string without needing the str() function.*
 
 
 
